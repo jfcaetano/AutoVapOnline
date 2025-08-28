@@ -111,7 +111,7 @@ for model in models:
         results.append(result)
 
 # ------------------------------
-output_fn = 'VOC-results1.csv'
+output_fn = 'results.csv'
 with open(output_fn, 'w', newline='') as fout:
     writer = csv.DictWriter(fout, fieldnames=results[0].keys())
     writer.writeheader()
@@ -129,4 +129,4 @@ avg_imp_df = avg_imp_df.sort_values(by="AvgImportance", ascending=False)
 
 total_sum = avg_imp_df["AvgImportance"].sum()
 # Save to CSV
-avg_imp_df.to_csv("VOC-feature-importance.csv", index=False)
+avg_imp_df.to_csv("feature-importance.csv", index=False)
