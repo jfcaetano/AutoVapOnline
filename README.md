@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <h2>⚙️ <a href="http://52.47.208.199:8000/">Provisional Online Interface Link</a></h2>
+  <h2>⚙️ <a href="http://autovap.jfcaetano.com/"> Online Interface Link</a></h2>
 </div>
 
 AutoVap is an interactive web application for predicting the standard enthalpy of vaporization of chemical structures. Built on a supervised machine learning model with RDKit-derived descriptors, AutoVap achieves predictions with 96 % accuracy, across diverse chemical families. The platform allows users to input SMILES notation and obtain both predictions and associated uncertainties through a simple interface.
