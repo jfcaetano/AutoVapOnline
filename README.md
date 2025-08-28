@@ -15,3 +15,15 @@ AutoVap is based on the work published in **Chemosphere** by [Ferraz-Caetano, et
 
 
 ---
+
+## Tool Features
+
+🎯 Predicts standard enthalpy of vaporization (1 bar, 298 K) values from SMILES
+    
+🔬 Uses chemical descriptors + ensemble Random Forests algorithms
+
+📉 Provides uncertanty estimates for each prediction
+
+---
+
+## ℹ️ GitHub Page for Article Review (will be made public after review)
