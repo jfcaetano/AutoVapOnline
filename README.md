@@ -7,9 +7,6 @@
 
 <div align="center">
   <h2>⚙️ <a href="http://autovap.jfcaetano.com/"> Online Interface Link</a></h2>
-</div>
-
-<div align="center">
   <h2>📚 <a href="https://doi.org/10.1002/cite.70111"> Original Article Link</a></h2>
 </div>
 
