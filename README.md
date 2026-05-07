@@ -27,4 +27,4 @@ AutoVap is based on the work published in **Chemosphere** by [Ferraz-Caetano, et
 
 ---
 
-# ℹ️ If you use these calculations in your work, please cite: “J. Ferraz-Caetano, AutoVap: An Interactive Machine Learning Tool for Predicting the Standard Enthalpy of Vaporization Chemie Ingenieur Technik (2026): e70111.” DOI: https://doi.org/10.1002/cite.70111
+ℹ️ If you use these calculations in your work, please cite: “J. Ferraz-Caetano, AutoVap: An Interactive Machine Learning Tool for Predicting the Standard Enthalpy of Vaporization Chemie Ingenieur Technik (2026): e70111.” DOI: https://doi.org/10.1002/cite.70111
