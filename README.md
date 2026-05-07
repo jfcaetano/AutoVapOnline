@@ -26,4 +26,4 @@ AutoVap is based on the work published in **Chemosphere** by [Ferraz-Caetano, et
 
 ---
 
-## ℹ️ GitHub Page for Article Review (will be made public after review)
+## ℹ️ GitHub Page for the Article https://doi.org/10.1002/cite.70111
